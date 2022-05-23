@@ -1,3 +1,1 @@
-# File hosting
-
-https://picx.xpoet.cn/
+File hosting by https://picx.xpoet.cn/
